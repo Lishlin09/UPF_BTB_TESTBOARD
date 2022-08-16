@@ -1,0 +1,246 @@
+Added Component: Designator=U1(HG-SGDBM-0.5_60P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "null"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "SGDBM-05-60P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C9900010919"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "SGDBM-05-60P"; VariantName = "[No Variations]"
+Added Component: Designator=U2(HG-SGDBF-0.5_60P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "null"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "SGDBM-05-60P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C9900010919"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "SGDBM-05-60P"; VariantName = "[No Variations]"
+Added Component: Designator=U3(HDR-TH_50P-P2.00-V-M-R2-C25-S2.00)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "XKB Connectivity(ÖÐ¹úÐÇÀ¤)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "X4621WV-2x25I-C28D40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C2883311"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "X4621WV-2X25I-C28D40"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=U1-27
+Added Pin To Net: NetName=3V3 Pin=U1-28
+Added Pin To Net: NetName=3V3 Pin=U2-3
+Added Pin To Net: NetName=3V3 Pin=U2-4
+Added Pin To Net: NetName=3V3 Pin=U3-1
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V_VIN Pin=U1-35
+Added Pin To Net: NetName=5V_VIN Pin=U1-36
+Added Pin To Net: NetName=5V_VIN Pin=U2-55
+Added Pin To Net: NetName=5V_VIN Pin=U2-56
+Added Pin To Net: NetName=5V_VIN Pin=U3-5
+Added Net: Name=5V_VIN
+Added Pin To Net: NetName=5V Pin=U1-37
+Added Pin To Net: NetName=5V Pin=U1-38
+Added Pin To Net: NetName=5V Pin=U2-53
+Added Pin To Net: NetName=5V Pin=U2-54
+Added Pin To Net: NetName=5V Pin=U3-3
+Added Net: Name=5V
+Added Pin To Net: NetName=24V_VIN Pin=U1-33
+Added Pin To Net: NetName=24V_VIN Pin=U1-34
+Added Pin To Net: NetName=24V_VIN Pin=U2-57
+Added Pin To Net: NetName=24V_VIN Pin=U2-58
+Added Pin To Net: NetName=24V_VIN Pin=U3-7
+Added Net: Name=24V_VIN
+Added Pin To Net: NetName=422_A Pin=U1-58
+Added Pin To Net: NetName=422_A Pin=U2-33
+Added Pin To Net: NetName=422_A Pin=U3-2
+Added Net: Name=422_A
+Added Pin To Net: NetName=422_B Pin=U1-57
+Added Pin To Net: NetName=422_B Pin=U2-34
+Added Pin To Net: NetName=422_B Pin=U3-49
+Added Net: Name=422_B
+Added Pin To Net: NetName=422_Y Pin=U1-53
+Added Pin To Net: NetName=422_Y Pin=U2-38
+Added Pin To Net: NetName=422_Y Pin=U3-41
+Added Net: Name=422_Y
+Added Pin To Net: NetName=422_Z Pin=U1-54
+Added Pin To Net: NetName=422_Z Pin=U2-37
+Added Pin To Net: NetName=422_Z Pin=U3-43
+Added Net: Name=422_Z
+Added Pin To Net: NetName=BAT_CRL Pin=U1-12
+Added Pin To Net: NetName=BAT_CRL Pin=U2-19
+Added Pin To Net: NetName=BAT_CRL Pin=U3-28
+Added Net: Name=BAT_CRL
+Added Pin To Net: NetName=BAT_STATE1 Pin=U1-5
+Added Pin To Net: NetName=BAT_STATE1 Pin=U2-26
+Added Pin To Net: NetName=BAT_STATE1 Pin=U3-42
+Added Net: Name=BAT_STATE1
+Added Pin To Net: NetName=BAT_STATE2 Pin=U1-4
+Added Pin To Net: NetName=BAT_STATE2 Pin=U2-27
+Added Pin To Net: NetName=BAT_STATE2 Pin=U3-44
+Added Net: Name=BAT_STATE2
+Added Pin To Net: NetName=CAN_H Pin=U1-50
+Added Pin To Net: NetName=CAN_H Pin=U2-41
+Added Pin To Net: NetName=CAN_H Pin=U3-35
+Added Net: Name=CAN_H
+Added Pin To Net: NetName=CAN_L Pin=U1-49
+Added Pin To Net: NetName=CAN_L Pin=U2-42
+Added Pin To Net: NetName=CAN_L Pin=U3-33
+Added Net: Name=CAN_L
+Added Pin To Net: NetName=CAP_CRL Pin=U1-24
+Added Pin To Net: NetName=CAP_CRL Pin=U2-7
+Added Pin To Net: NetName=CAP_CRL Pin=U3-8
+Added Net: Name=CAP_CRL
+Added Pin To Net: NetName=DBG_RX Pin=U1-16
+Added Pin To Net: NetName=DBG_RX Pin=U2-15
+Added Pin To Net: NetName=DBG_RX Pin=U3-22
+Added Net: Name=DBG_RX
+Added Pin To Net: NetName=DBG_TX Pin=U1-15
+Added Pin To Net: NetName=DBG_TX Pin=U2-16
+Added Pin To Net: NetName=DBG_TX Pin=U3-24
+Added Net: Name=DBG_TX
+Added Pin To Net: NetName=DM Pin=U1-44
+Added Pin To Net: NetName=DM Pin=U2-47
+Added Pin To Net: NetName=DM Pin=U3-23
+Added Net: Name=DM
+Added Pin To Net: NetName=DP Pin=U1-43
+Added Pin To Net: NetName=DP Pin=U2-48
+Added Pin To Net: NetName=DP Pin=U3-21
+Added Net: Name=DP
+Added Pin To Net: NetName=FCU_RX Pin=U1-45
+Added Pin To Net: NetName=FCU_RX Pin=U2-46
+Added Pin To Net: NetName=FCU_RX Pin=U3-25
+Added Net: Name=FCU_RX
+Added Pin To Net: NetName=FCU_TX Pin=U1-46
+Added Pin To Net: NetName=FCU_TX Pin=U2-45
+Added Pin To Net: NetName=FCU_TX Pin=U3-27
+Added Net: Name=FCU_TX
+Added Pin To Net: NetName=FIRE_1 Pin=U1-23
+Added Pin To Net: NetName=FIRE_1 Pin=U2-8
+Added Pin To Net: NetName=FIRE_1 Pin=U3-10
+Added Net: Name=FIRE_1
+Added Pin To Net: NetName=FIRE_2 Pin=U1-22
+Added Pin To Net: NetName=FIRE_2 Pin=U2-9
+Added Pin To Net: NetName=FIRE_2 Pin=U3-12
+Added Net: Name=FIRE_2
+Added Pin To Net: NetName=FIRE_3 Pin=U1-21
+Added Pin To Net: NetName=FIRE_3 Pin=U2-10
+Added Pin To Net: NetName=FIRE_3 Pin=U3-14
+Added Net: Name=FIRE_3
+Added Pin To Net: NetName=FIRE_CAP Pin=U1-25
+Added Pin To Net: NetName=FIRE_CAP Pin=U2-6
+Added Pin To Net: NetName=FIRE_CAP Pin=U3-6
+Added Net: Name=FIRE_CAP
+Added Pin To Net: NetName=FIRE_CHK_1 Pin=U1-14
+Added Pin To Net: NetName=FIRE_CHK_1 Pin=U2-17
+Added Pin To Net: NetName=FIRE_CHK_1 Pin=U3-26
+Added Net: Name=FIRE_CHK_1
+Added Pin To Net: NetName=FIRE_CHK_2 Pin=U1-10
+Added Pin To Net: NetName=FIRE_CHK_2 Pin=U2-21
+Added Pin To Net: NetName=FIRE_CHK_2 Pin=U3-32
+Added Net: Name=FIRE_CHK_2
+Added Pin To Net: NetName=FIRE_PIN Pin=U1-6
+Added Pin To Net: NetName=FIRE_PIN Pin=U2-25
+Added Pin To Net: NetName=FIRE_PIN Pin=U3-40
+Added Net: Name=FIRE_PIN
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-29
+Added Pin To Net: NetName=GND Pin=U1-30
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=GND Pin=U1-32
+Added Pin To Net: NetName=GND Pin=U1-59
+Added Pin To Net: NetName=GND Pin=U1-60
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-29
+Added Pin To Net: NetName=GND Pin=U2-30
+Added Pin To Net: NetName=GND Pin=U2-31
+Added Pin To Net: NetName=GND Pin=U2-32
+Added Pin To Net: NetName=GND Pin=U2-59
+Added Pin To Net: NetName=GND Pin=U2-60
+Added Pin To Net: NetName=GND Pin=U3-15
+Added Net: Name=GND
+Added Pin To Net: NetName=GPIO_1 Pin=U1-17
+Added Pin To Net: NetName=GPIO_1 Pin=U2-14
+Added Pin To Net: NetName=GPIO_1 Pin=U3-20
+Added Net: Name=GPIO_1
+Added Pin To Net: NetName=GPIO_2 Pin=U1-9
+Added Pin To Net: NetName=GPIO_2 Pin=U2-22
+Added Pin To Net: NetName=GPIO_2 Pin=U3-34
+Added Net: Name=GPIO_2
+Added Pin To Net: NetName=GPIO_3 Pin=U1-7
+Added Pin To Net: NetName=GPIO_3 Pin=U2-24
+Added Pin To Net: NetName=GPIO_3 Pin=U3-38
+Added Net: Name=GPIO_3
+Added Pin To Net: NetName=GPIO_4 Pin=U1-8
+Added Pin To Net: NetName=GPIO_4 Pin=U2-23
+Added Pin To Net: NetName=GPIO_4 Pin=U3-36
+Added Net: Name=GPIO_4
+Added Pin To Net: NetName=HX_DOUT Pin=U1-19
+Added Pin To Net: NetName=HX_DOUT Pin=U2-12
+Added Pin To Net: NetName=HX_DOUT Pin=U3-18
+Added Net: Name=HX_DOUT
+Added Pin To Net: NetName=HX_SCK Pin=U1-20
+Added Pin To Net: NetName=HX_SCK Pin=U2-11
+Added Pin To Net: NetName=HX_SCK Pin=U3-16
+Added Net: Name=HX_SCK
+Added Pin To Net: NetName=K1 Pin=U1-11
+Added Pin To Net: NetName=K1 Pin=U2-20
+Added Pin To Net: NetName=K1 Pin=U3-30
+Added Net: Name=K1
+Added Pin To Net: NetName=POWER_EN Pin=U1-26
+Added Pin To Net: NetName=POWER_EN Pin=U2-5
+Added Pin To Net: NetName=POWER_EN Pin=U3-4
+Added Net: Name=POWER_EN
+Added Pin To Net: NetName=POWER_VIN Pin=U1-13
+Added Pin To Net: NetName=POWER_VIN Pin=U2-18
+Added Pin To Net: NetName=POWER_VIN Pin=U3-11
+Added Net: Name=POWER_VIN
+Added Pin To Net: NetName=PWM_1 Pin=U1-47
+Added Pin To Net: NetName=PWM_1 Pin=U2-44
+Added Pin To Net: NetName=PWM_1 Pin=U3-29
+Added Net: Name=PWM_1
+Added Pin To Net: NetName=PWM_2 Pin=U1-51
+Added Pin To Net: NetName=PWM_2 Pin=U2-40
+Added Pin To Net: NetName=PWM_2 Pin=U3-37
+Added Net: Name=PWM_2
+Added Pin To Net: NetName=PWM_3 Pin=U1-48
+Added Pin To Net: NetName=PWM_3 Pin=U2-43
+Added Pin To Net: NetName=PWM_3 Pin=U3-31
+Added Net: Name=PWM_3
+Added Pin To Net: NetName=PWM_4 Pin=U1-52
+Added Pin To Net: NetName=PWM_4 Pin=U2-39
+Added Pin To Net: NetName=PWM_4 Pin=U3-39
+Added Net: Name=PWM_4
+Added Pin To Net: NetName=PWM_5 Pin=U1-55
+Added Pin To Net: NetName=PWM_5 Pin=U2-36
+Added Pin To Net: NetName=PWM_5 Pin=U3-45
+Added Net: Name=PWM_5
+Added Pin To Net: NetName=PWM_6 Pin=U1-56
+Added Pin To Net: NetName=PWM_6 Pin=U2-35
+Added Pin To Net: NetName=PWM_6 Pin=U3-47
+Added Net: Name=PWM_6
+Added Pin To Net: NetName=SWCLK Pin=U1-41
+Added Pin To Net: NetName=SWCLK Pin=U2-50
+Added Pin To Net: NetName=SWCLK Pin=U3-17
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=U1-42
+Added Pin To Net: NetName=SWDIO Pin=U2-49
+Added Pin To Net: NetName=SWDIO Pin=U3-19
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=SYNC(PPS) Pin=U1-3
+Added Pin To Net: NetName=SYNC(PPS) Pin=U2-28
+Added Pin To Net: NetName=SYNC(PPS) Pin=U3-46
+Added Net: Name=SYNC(PPS)
+Added Pin To Net: NetName=V_BAT Pin=U1-39
+Added Pin To Net: NetName=V_BAT Pin=U1-40
+Added Pin To Net: NetName=V_BAT Pin=U2-51
+Added Pin To Net: NetName=V_BAT Pin=U2-52
+Added Pin To Net: NetName=V_BAT Pin=U3-9
+Added Net: Name=V_BAT
+Added Pin To Net: NetName=V_CAP Pin=U1-18
+Added Pin To Net: NetName=V_CAP Pin=U2-13
+Added Pin To Net: NetName=V_CAP Pin=U3-13
+Added Net: Name=V_CAP
+Added Class: Name=UPF
